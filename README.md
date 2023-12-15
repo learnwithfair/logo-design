@@ -10,8 +10,8 @@ Thanks for visiting my GitHub account!
 
 ## Project Overview
 
-|   |   |   |
-|:---:|:---:|:---:|
+|   |   |
+|:---:|:---:|
 |Header Logo|Without BG|
 |![basic](https://github.com/learnwithfair/logo-design/blob/main/Logo/Header%20Logo.png)|![without BG](https://github.com/learnwithfair/logo-design/blob/main/Logo/Header%20logo%20Without%20BG.png)|
 |Youtube Circular Logo|Circular With White BG|
