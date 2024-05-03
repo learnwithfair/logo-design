@@ -24,7 +24,7 @@ Thanks for visiting my GitHub account!
 |                                                        Youtube Circular Logo                                                        |                                                   Circular With White BG                                                   |
 | ![Circular](<https://github.com/learnwithfair/logo-design/blob/main/Logo/Learn%20With%20Fair%20Youtube%20Channel%20Logo%20(2).png>) | ![With BG](https://github.com/learnwithfair/logo-design/blob/main/Logo/Learn%20With%20Fair%20Youtube%20Channel%20Logo.png) |
 |                                                             Footer Logo                                                             |                                                        Shikkhangon                                                         |
-|                     ![footer-logo](https://github.com/learnwithfair/logo-design/blob/main/Logo/footer-logo.png)                     |                                             ![sikkhangon](logo/sikkhangon.png)                                             |
+|                     ![footer-logo](https://github.com/learnwithfair/logo-design/blob/main/Logo/footer-logo.png)                     |                                             ![sikkhangon](Logo/sikkhangon.png)                                             |
 
 ## Follow Me
 
